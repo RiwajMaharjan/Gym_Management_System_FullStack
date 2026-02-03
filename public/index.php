@@ -27,7 +27,7 @@
         <div class="hero-content">
             <h1>Transform Your Body & Mind</h1>
             <p>Join the ultimate fitness experience with world-class trainers and state-of-the-art facilities</p>
-            <button class="cta-button">Start Your Journey <i class="fas fa-arrow-right"></i></button>
+            <a href="auth/signup.php" class="cta-button">Start Your Journey <i class="fas fa-arrow-right"></i></a>
         </div>
     </section>
 
