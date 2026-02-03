@@ -147,6 +147,7 @@ nav.scrolled {
     cursor: pointer;
     transition: all 0.3s;
     font-weight: 700;
+    text-decoration: none;
 }
 
 .cta-button:hover {
